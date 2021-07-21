@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vishal (@MR-V07)
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Coding
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to learn new things, make friends
+- 👀 I have keen interest in Artificial Intelligence, Machine Learning fields.
+- 🌱 I’m currently studying Computer Engineering
+- 💞️ I’m looking to learn new things and make friends 
 - 📫 How to reach me 
 LinkedIn: https://www.linkedin.com/in/vishal-chatre-6571301b3
 Instagram: vishalchatre29
